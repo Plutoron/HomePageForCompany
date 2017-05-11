@@ -1,0 +1,70 @@
+body{
+} 
+
+#header{
+	height: 9rem;
+	box-sizing: border-box;
+}
+.relative{
+	position: relative;
+}
+.absolute{
+	position: absolute;
+}
+.company-name{
+	color: red;
+	font-size: 1.75rem; 
+	bottom: 1rem;
+	right: 1rem;
+}
+#logo{
+	height: 9rem;
+	width: 100%;
+}
+.header-right{
+	padding-top: 3rem;
+	text-align: right;
+	padding-right: 5rem;
+	font-size: 1.5rem;
+}
+
+#banner{
+
+}
+.carousel-indicators li{
+	height: 1.25rem;
+	width: 1.25rem;
+}
+.carousel-indicators .active{
+	height: 1.25rem;
+	width: 1.25rem;
+}
+.item img{
+	width: 100%;
+}
+.thumbnail{
+	margin-bottom: 0; 
+}
+
+#news{
+	padding-top: 1rem;
+}
+.panel-footer .item{
+	
+}
+.panel-footer .item img{
+	float: left;
+	width: 33%;
+	height: 100%;
+}
+
+#footer{
+	padding: 3rem 0;
+}
+
+#qq{
+	width: 100px;
+	height: 100px;
+	top: 10rem;
+	right: 1rem;
+}
